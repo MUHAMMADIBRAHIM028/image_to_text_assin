@@ -1,13 +1,6 @@
 # image_to_text_assin
----
-title: My Awesome App
-emoji: 🚀
-colorFrom: #FF5733
-colorTo: #33FF57
-sdk: SomeSDK
-sdk_version: 2.0
-app_file: app.py
-pinned: true
----
 
-# Your Markdown content goes here
+| title               | emoji | colorFrom | colorTo | sdk     | sdk_version | app_file | pinned |
+| ------------------- | ----- | --------- | ------- | ------- | ----------- | -------- | ------ |
+| My Awesome Project | 🎉  | Tomato    | MediumSeaGreen | SomeSDK | 2.0         | app.py   | false  |
+|
