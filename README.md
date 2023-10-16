@@ -1,6 +1,6 @@
 # image_to_text_assin
 ---
-title: MLOps Assignment 4
+title: image_to_text
 emoji: 🚀
 colorFrom: white
 colorTo: white
