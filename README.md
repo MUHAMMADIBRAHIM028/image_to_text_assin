@@ -1,6 +1,13 @@
 # image_to_text_assin
+---
+title: MLOps Assignment 4
+emoji: 🚀
+colorFrom: white
+colorTo: white
+sdk: gradio
+sdk_version: 3.0.6
+app_file: app.py
+pinned: false
+license: cc
+---
 
-| title               | emoji | colorFrom | colorTo | sdk     | sdk_version | app_file | pinned |
-| ------------------- | ----- | --------- | ------- | ------- | ----------- | -------- | ------ |
-| My Awesome Project | 🎉  | Tomato    | MediumSeaGreen | SomeSDK | 2.0         | app.py   | false  |
-|
