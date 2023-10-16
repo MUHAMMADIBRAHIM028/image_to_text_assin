@@ -1,13 +1,17 @@
-# image_to_text_assin
 ---
-title: image_to_text
-emoji: 🚀
+title: Image to text gen
+tags:
+  - image to text
+  - language models
+  - LLMs
+emoji: 📷
 colorFrom: white
-colorTo: white
+colorTo: blue
 sdk: gradio
-sdk_version: 3.0.6
+sdk_version: 3.14.0
 app_file: app.py
-pinned: false
-license: cc
+pinned: true
+license: mit
 ---
+
 
